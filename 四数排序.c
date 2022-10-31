@@ -1,4 +1,5 @@
 #include<stdio.h>
+//冒泡排序法
 int main(void)
 {
 	int a,b,c,d,t;
