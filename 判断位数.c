@@ -4,6 +4,8 @@ int main()
 	int i;
 	int n=0;
 	scanf("%d",&i);
+	n++;
+	i/=10;
 	while(i>0)
 	{
 		i/=10;
