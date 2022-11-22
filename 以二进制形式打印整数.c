@@ -19,7 +19,7 @@ int main()
 		printf("Binary equivalent:");
 		to_binary(number);
 		putchar('\n');
-		printf("Ebter an integer (q to quit):\n");
+		printf("Enter an integer (q to quit):\n");
 	}
 	printf("Done.\n");
 	return 0;
